@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore all files in data/raw
+data/raw/*
+
+# notebook checkpoints
+.ipynb_checkpoints/
